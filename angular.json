@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngrxFire"
+    }
+  },
+  "defaultProject": "ngrxFire",
+  "cli": {
+    "analytics": false
+  }
 }
